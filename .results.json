@@ -5,15 +5,15 @@
     "passes": 4,
     "pending": 0,
     "failures": 4,
-    "start": "2022-03-26T11:32:28.211Z",
-    "end": "2022-03-26T11:32:28.627Z",
-    "duration": 416
+    "start": "2022-03-26T11:50:58.999Z",
+    "end": "2022-03-26T11:50:59.540Z",
+    "duration": 541
   },
   "tests": [
     {
       "title": "gives customers a free sample if the ride is less than or equal to 400 feet",
       "fullTitle": "index.js scuberGreetingForFeet() gives customers a free sample if the ride is less than or equal to 400 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -132,7 +132,7 @@
     {
       "title": "gives customers a free sample if the ride is less than or equal to 400 feet",
       "fullTitle": "index.js scuberGreetingForFeet() gives customers a free sample if the ride is less than or equal to 400 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
